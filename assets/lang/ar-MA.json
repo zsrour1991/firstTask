@@ -1,0 +1,16 @@
+{
+  "Tasks": "مهام",
+  "Projects": "المشاريع",
+  "Teams": "فرق",
+  "Settings": "الإعدادات",
+  "Language: ": "اللغة: ",
+  "English": "انجليزي ",
+  "Arabic": "عربي",
+  "Read emails from mailbox": "قراءة رسائل البريد الإلكتروني من صندوق البريد",
+  "Check latest news on Flutter": "تحقق من آخر الأخبار على Flutter",
+  "Have a call with Flutter team": "إجراء مكالمة مع فريق Flutter",
+  "Work on application performance": "العمل على أداء التطبيق",
+  "Plan work for next week": "خطة العمل للأسبوع المقبل",
+  "Order lunch": "طلب الغداء",
+  "Create an invoice for last month": "إنشاء فاتورة الشهر الماضي"
+}
